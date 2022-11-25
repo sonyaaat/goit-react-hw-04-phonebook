@@ -1,4 +1,4 @@
-import { useState, useEffect,useMemo } from 'react';
+import { useState, useEffect } from 'react';
 import ContactsList from '../components/ContactsList/ContactsList';
 import ContactsEditor from '../components/ContactsEditor/ContactsEditor';
 import { nanoid } from 'nanoid';
