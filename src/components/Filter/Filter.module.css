@@ -1,0 +1,20 @@
+.find{
+    display: block;
+    text-align: center;
+    color: rgb(60, 149, 227);
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+.filter__box{
+margin-top: 50px;
+margin-bottom: 50px;
+}
+.input{
+    display: flex;
+    border: none;
+    background: none;
+    border-bottom:3px solid #337AB7;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}

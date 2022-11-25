@@ -1,0 +1,29 @@
+.item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.item:not(:last-child)
+{
+    margin-bottom: 20px;
+}
+.name{
+font-size: 20px;
+color: #337AB7;
+}
+.number{
+    margin-left: 10px;
+font-size: 20px;
+color: #1d5e97;
+}
+.button{
+width: 70px;
+height: 30px;
+margin-left: auto;
+background-color: #337AB7;
+color: white;
+border: none;
+font-size: 20px;
+border-radius: 5px;
+cursor:pointer;
+}

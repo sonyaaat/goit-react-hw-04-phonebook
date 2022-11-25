@@ -1,0 +1,13 @@
+.list{
+align-items: center;
+margin: 0 auto;
+width: 500px;
+background-color: aliceblue;
+border-radius: 10px;
+padding: 15px;
+}
+
+.notify{
+    text-align: center;
+    color: #07467e;
+}
